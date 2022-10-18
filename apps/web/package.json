@@ -121,6 +121,7 @@
     "cypress-localstorage-commands": "^1.7.0",
     "cypress-network-idle": "^1.10.0",
     "eslint-plugin-cypress": "^2.12.1",
+    "eslint-plugin-react-hooks": "^4.4.0",
     "http-server": "^0.12.3",
     "less-loader": "4.1.0",
     "nodemon": "^2.0.15",
